@@ -27,7 +27,6 @@
     "Which niche would you like contributing too?": "Documentation/Code"
   },
   {
-    
     "Name": "Badmus G. Mohammed",
     "Nickname": "globalsmile",
     "Tech Stack": "Backend",
@@ -37,7 +36,6 @@
     "Which niche would you like contributing too?": "Documentation/Code"
   },
   {
-    
     "Name": "Ogunmisi Oluuwafemi",
     "Nickname": "Hefhem",
     "Tech Stack": "Frontend",
@@ -47,7 +45,6 @@
     "Which niche would you like contributing too?": "Documentation/Code"
   },
   {
-    
     "Name": "William Anaza",
     "Nickname": "th_ejouRney",
     "Tech Stack": "Frontend",
@@ -64,5 +61,14 @@
     "Twitter Handle": "@SVikkaz",
     "GitHub Profile": "https://github.com/Sirvikkaz",
     "Which niche would you like contributing too?": "Documentation/Code"
+  },
+  {
+    "Name": "Odujebe Olalekan",
+    "Nickname": "Maloney",
+    "Tech Stack": "Frontend",
+    "Experience Level in OSS": "Beginner",
+    "Twitter Handle": "@__Maloney",
+    "GitHub Profile": "https://github.com/Maloney18",
+    "Which niche would you like contributing too?": "Code"
   }
 ]
