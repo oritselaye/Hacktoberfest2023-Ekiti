@@ -18,6 +18,51 @@
     "Which niche would you like contributing too?": "Documentation/Code"
   },
   {
+    "Name": "Gabriel Igbalaye",
+    "Nickname": "SaintChaos",
+    "Tech Stack": "Frontend",
+    "Experience Level in OSS": "Newbie",
+    "Twitter Handle": "@Dev_SaintChaos",
+    "GitHub Profile": "https://github.com/Chaos10001",
+    "Which niche would you like contributing too?": "Documentation/Code"
+  },
+  {
+    "Name": "Badmus G. Mohammed",
+    "Nickname": "globalsmile",
+    "Tech Stack": "Backend",
+    "Experience Level in OSS": "Intermediate",
+    "Twitter Handle": "@_globalsmile",
+    "GitHub Profile": "https://github.com/globalsmile",
+    "Which niche would you like contributing too?": "Documentation/Code"
+  },
+  {
+    "Name": "Ogunmisi Oluuwafemi",
+    "Nickname": "Hefhem",
+    "Tech Stack": "Frontend",
+    "Experience Level in OSS": "Expert",
+    "Twitter Handle": "@ogunmisim",
+    "GitHub Profile": "https://github.com/ogunmisim",
+    "Which niche would you like contributing too?": "Documentation/Code"
+  },
+  {
+    "Name": "William Anaza",
+    "Nickname": "th_ejouRney",
+    "Tech Stack": "Frontend",
+    "Experience Level in OSS": "Newbie",
+    "Twitter Handle": "@th_ejouRney",
+    "GitHub Profile": "https://github.com/williamwebs",
+    "Which niche would you like contributing too?": "Documentation/Code"
+  },
+  {
+    "Name": "Olanrewaju Victor",
+    "Nickname": "Sirvikkaz",
+    "Tech Stack": "Frontend",
+    "Experience Level in OSS": "Intermediate",
+    "Twitter Handle": "@SVikkaz",
+    "GitHub Profile": "https://github.com/Sirvikkaz",
+    "Which niche would you like contributing too?": "Documentation/Code"
+  },
+  {
     "Name": "Odujebe Olalekan",
     "Nickname": "Maloney",
     "Tech Stack": "Frontend",
@@ -25,5 +70,5 @@
     "Twitter Handle": "@__Maloney",
     "GitHub Profile": "https://github.com/Maloney18",
     "Which niche would you like contributing too?": "Code"
-    }
+  }
 ]
