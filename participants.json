@@ -81,13 +81,22 @@
     "Which niche would you like contributing too?": "Documentation/Code"
   },
   {
-    "Name": "Albert Adekanye",
-    "Nickname": "Я возможен ",
-    "Tech Stack": "Frontend",
-    "Experience Level in OSS": "intermediate",
-    "Twitter Handle": "@adekanye_albert",
-    "GitHub Profile": "https://github.com/AlbertAdekanye",
-    "Which niche would you like contributing too?": "Code"
+    "Name": "Adeyemi Favour Adetayo",
+    "Nickname": "Pebbles",
+    "Tech Stack": "Moblile Application (Flutter) development",
+    "Experience Level in OSS": "intermidiate",
+    "Twitter Handle": "@favvyhn.dart",
+    "GitHub Profile": "https://github.com/favourTy",
+    "Which niche would you like contributing too?": "Documentation/Code"
+  },
+  {
+      "Name": "Bamidele Damilola Joseph",
+      "Nickname": "Joe",
+      "Tech Stack": "Full Stack / ML",
+      "Experience Level in OSS": "Intermediate",
+      "Twitter Handle": "@bidexdablitz",
+      "GitHub Profile": "https://github.com/Bidexdablitz",
+      "Which niche would you like contributing too?": "Code"
   }
 
 ]
